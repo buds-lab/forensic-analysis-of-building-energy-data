@@ -1,0 +1,415 @@
+Point_Index,Building_Index,AdjustedEnglishTypeTag
+4,2,Electricity
+7,2,Heating energy
+9,2,Cooling energy
+15,3,Electricity
+18,3,Heating energy
+20,3,Cooling energy
+26,3,Electricity
+27,3,Heating energy
+28,3,Cooling energy
+32,3,Electricity
+34,3,Heating energy
+35,3,Cooling energy
+63,4,Electricity
+64,4,Electricity
+65,4,Electricity
+66,4,Electricity
+67,4,Electricity
+68,4,Electricity
+69,4,Electricity
+70,4,Electricity
+71,4,Electricity
+72,4,Electricity
+73,4,Electricity
+74,4,Electricity
+75,4,Electricity
+76,4,Electricity
+77,4,Electricity
+78,4,Electricity
+79,4,Electricity
+80,4,Electricity
+81,4,Electricity
+82,4,Electricity
+83,4,Electricity
+84,4,Electricity
+85,4,Electricity
+86,4,Electricity
+95,4,Heating energy
+96,4,Heating energy
+97,4,Heating energy
+102,4,Cooling energy
+103,4,Cooling energy
+104,4,Cooling energy
+105,4,Cooling energy
+130,5,Electricity
+131,5,Electricity
+132,5,Electricity
+133,5,Electricity
+134,5,Electricity
+135,5,Electricity
+136,5,Electricity
+137,5,Electricity
+138,5,Electricity
+139,5,Electricity
+140,5,Electricity
+141,5,Electricity
+142,5,Electricity
+143,5,Electricity
+144,5,Electricity
+153,5,Heating energy
+154,5,Heating energy
+157,5,Cooling energy
+158,5,Cooling energy
+185,6,Electricity
+186,6,Electricity
+187,6,Electricity
+188,6,Electricity
+189,6,Electricity
+190,6,Electricity
+191,6,Electricity
+192,6,Electricity
+193,6,Electricity
+194,6,Electricity
+195,6,Electricity
+196,6,Electricity
+197,6,Electricity
+198,6,Electricity
+199,6,Electricity
+200,6,Electricity
+201,6,Electricity
+202,6,Electricity
+205,6,Heating energy
+207,6,Cooling energy
+231,7,Electricity
+232,7,Electricity
+233,7,Electricity
+234,7,Electricity
+235,7,Electricity
+236,7,Electricity
+237,7,Electricity
+238,7,Electricity
+239,7,Electricity
+240,7,Electricity
+241,7,Electricity
+242,7,Electricity
+243,7,Electricity
+244,7,Electricity
+245,7,Electricity
+246,7,Electricity
+251,7,Heating energy
+252,7,Heating energy
+253,7,Heating energy
+257,7,Cooling energy
+258,7,Cooling energy
+259,7,Cooling energy
+290,8,Electricity
+291,8,Electricity
+292,8,Electricity
+293,8,Electricity
+294,8,Electricity
+295,8,Electricity
+296,8,Electricity
+297,8,Electricity
+298,8,Electricity
+299,8,Electricity
+300,8,Electricity
+301,8,Electricity
+302,8,Electricity
+303,8,Electricity
+304,8,Electricity
+305,8,Electricity
+306,8,Electricity
+307,8,Electricity
+308,8,Electricity
+309,8,Electricity
+310,8,Electricity
+311,8,Electricity
+312,8,Electricity
+325,8,Heating energy
+326,8,Heating energy
+327,8,Heating energy
+328,8,Heating energy
+329,8,Heating energy
+330,8,Heating energy
+331,8,Heating energy
+332,8,Heating energy
+333,8,Heating energy
+354,8,Cooling energy
+355,8,Cooling energy
+356,8,Cooling energy
+357,8,Cooling energy
+358,8,Cooling energy
+359,8,Cooling energy
+381,9,Electricity
+382,9,Electricity
+383,9,Electricity
+384,9,Electricity
+385,9,Electricity
+386,9,Electricity
+387,9,Electricity
+388,9,Electricity
+389,9,Electricity
+390,9,Electricity
+391,9,Electricity
+392,9,Electricity
+393,9,Electricity
+394,9,Electricity
+403,9,Heating energy
+404,9,Heating energy
+405,9,Heating energy
+406,9,Heating energy
+407,9,Heating energy
+408,9,Heating energy
+418,9,Cooling energy
+419,9,Cooling energy
+420,9,Cooling energy
+429,10,Electricity
+430,10,Electricity
+433,10,Heating energy
+434,10,Cooling energy
+435,10,Cooling energy
+442,11,Electricity
+443,11,Electricity
+444,11,Electricity
+446,11,Heating energy
+447,11,Heating energy
+452,11,Cooling energy
+453,11,Cooling energy
+498,12,Electricity
+499,12,Electricity
+500,12,Electricity
+501,12,Electricity
+502,12,Electricity
+503,12,Electricity
+504,12,Electricity
+505,12,Electricity
+506,12,Electricity
+507,12,Electricity
+508,12,Electricity
+509,12,Electricity
+510,12,Electricity
+511,12,Electricity
+512,12,Electricity
+513,12,Electricity
+514,12,Electricity
+515,12,Electricity
+516,12,Electricity
+517,12,Electricity
+518,12,Electricity
+519,12,Electricity
+520,12,Electricity
+521,12,Electricity
+522,12,Electricity
+523,12,Electricity
+524,12,Electricity
+525,12,Electricity
+526,12,Electricity
+527,12,Electricity
+546,12,Heating energy
+547,12,Heating energy
+548,12,Heating energy
+549,12,Heating energy
+550,12,Heating energy
+551,12,Heating energy
+552,12,Heating energy
+553,12,Heating energy
+554,12,Heating energy
+555,12,Heating energy
+556,12,Heating energy
+557,12,Heating energy
+558,12,Heating energy
+559,12,Heating energy
+560,12,Heating energy
+612,12,Cooling energy
+613,12,Cooling energy
+614,12,Cooling energy
+615,12,Cooling energy
+616,12,Cooling energy
+617,12,Cooling energy
+618,12,Cooling energy
+619,12,Cooling energy
+620,12,Cooling energy
+621,12,Cooling energy
+622,12,Cooling energy
+623,12,Cooling energy
+624,12,Cooling energy
+694,13,Electricity
+695,13,Electricity
+696,13,Electricity
+697,13,Electricity
+698,13,Electricity
+699,13,Electricity
+701,13,Heating energy
+702,13,Heating energy
+706,13,Cooling energy
+707,13,Cooling energy
+708,13,Cooling energy
+715,14,Electricity
+716,14,Heating energy
+727,15,Electricity
+728,15,Electricity
+729,15,Electricity
+730,15,Electricity
+731,15,Electricity
+732,15,Electricity
+733,15,Electricity
+734,15,Electricity
+736,15,Heating energy
+737,15,Heating energy
+743,15,Cooling energy
+744,15,Cooling energy
+745,15,Cooling energy
+746,15,Cooling energy
+747,15,Cooling energy
+755,16,Electricity
+757,16,Heating energy
+763,17,Heating energy
+769,18,Electricity
+771,18,Heating energy
+782,19,Electricity
+783,19,Electricity
+784,19,Electricity
+785,19,Electricity
+786,19,Electricity
+787,19,Electricity
+788,19,Electricity
+789,19,Electricity
+790,19,Electricity
+791,19,Electricity
+792,19,Electricity
+793,19,Electricity
+794,19,Electricity
+795,19,Electricity
+796,19,Electricity
+797,19,Electricity
+806,19,Heating energy
+807,19,Heating energy
+808,19,Heating energy
+809,19,Heating energy
+810,19,Heating energy
+811,19,Heating energy
+832,19,Cooling energy
+833,19,Cooling energy
+834,19,Cooling energy
+835,19,Cooling energy
+836,19,Cooling energy
+837,19,Cooling energy
+858,20,Electricity
+859,20,Heating energy
+861,21,Electricity
+862,21,Heating energy
+865,22,Electricity
+867,22,Heating energy
+878,24,Electricity
+879,24,Electricity
+880,24,Electricity
+883,24,Heating energy
+884,24,Heating energy
+888,24,Cooling energy
+889,24,Cooling energy
+899,25,Electricity
+900,25,Electricity
+901,25,Electricity
+902,25,Electricity
+903,25,Electricity
+906,26,Electricity
+907,26,Electricity
+908,26,Electricity
+909,26,Electricity
+912,26,Heating energy
+913,26,Heating energy
+917,26,Cooling energy
+918,26,Cooling energy
+919,26,Cooling energy
+936,27,Electricity
+937,27,Electricity
+938,27,Electricity
+939,27,Electricity
+940,27,Electricity
+941,27,Electricity
+942,27,Electricity
+943,27,Electricity
+944,27,Electricity
+945,27,Electricity
+947,27,Heating energy
+948,27,Heating energy
+950,27,Cooling energy
+957,28,Electricity
+958,28,Electricity
+959,28,Electricity
+964,28,Heating energy
+965,28,Heating energy
+966,28,Heating energy
+967,28,Heating energy
+974,28,Cooling energy
+975,28,Cooling energy
+976,28,Cooling energy
+989,29,Electricity
+990,29,Electricity
+991,29,Electricity
+992,29,Electricity
+997,29,Heating energy
+998,29,Heating energy
+999,29,Heating energy
+1008,29,Cooling energy
+1009,29,Cooling energy
+1017,30,Electricity
+1018,30,Electricity
+1019,30,Electricity
+1024,30,Heating energy
+1025,30,Heating energy
+1026,30,Heating energy
+1039,30,Cooling energy
+1057,31,Electricity
+1058,31,Electricity
+1059,31,Electricity
+1060,31,Electricity
+1061,31,Electricity
+1062,31,Electricity
+1063,31,Electricity
+1064,31,Electricity
+1065,31,Electricity
+1066,31,Electricity
+1072,31,Heating energy
+1073,31,Heating energy
+1074,31,Heating energy
+1075,31,Heating energy
+1076,31,Heating energy
+1077,31,Heating energy
+1078,31,Heating energy
+1083,31,Cooling energy
+1084,31,Cooling energy
+1085,31,Cooling energy
+1086,31,Cooling energy
+1094,32,Heating energy
+1106,33,Electricity
+1107,33,Electricity
+1108,33,Electricity
+1109,33,Electricity
+1110,33,Electricity
+1117,33,Heating energy
+1118,33,Heating energy
+1119,33,Heating energy
+1120,33,Heating energy
+1121,33,Heating energy
+1122,33,Heating energy
+1123,33,Heating energy
+1147,33,Cooling energy
+1148,33,Cooling energy
+1149,33,Cooling energy
+1156,34,Electricity
+1158,34,Heating energy
+1160,34,Cooling energy
+1163,35,Electricity
+1168,36,Electricity
+1169,36,Electricity
+1170,36,Electricity
+1171,36,Electricity
+1172,36,Electricity
+1173,36,Electricity
+1174,36,Electricity
+1177,36,Heating energy
+1178,36,Heating energy
+1193,36,Cooling energy
+1194,36,Cooling energy
