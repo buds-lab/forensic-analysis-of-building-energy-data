@@ -4,7 +4,7 @@ This IPython notebook will open and explore data collected from a campus energy 
 
 This dataset is available within the repository and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). 
 
-[Download the dataset here](https://www.dropbox.com/s/po1i11jsaadak59/SimAud_OpenDataSet.csv?dl=0)
+[Download the dataset here](https://www.dropbox.com/s/ly0wohxezq67pw7/SimAUD_OpenDataset.zip?dl=0)
 
 ====================
 
