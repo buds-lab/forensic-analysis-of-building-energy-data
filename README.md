@@ -1,4 +1,4 @@
-#SimAUD 2015 Open Dataset for the Paper: Forensically Discovering Simulation Feedback Knowledge from a Campus Energy Information System
+# SimAUD 2015 Open Dataset for the Paper: Forensically Discovering Simulation Feedback Knowledge from a Campus Energy Information System
 
 This IPython notebook will open and explore data collected from a campus energy information system (EIS). The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook.
 
