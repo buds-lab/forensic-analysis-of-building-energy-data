@@ -2,6 +2,8 @@
 
 This IPython notebook will open and explore data collected from a campus energy information system (EIS). The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook.
 
+The publication: [Forensically discovering simulation feedback knowledge from a campus energy information system](https://www.researchgate.net/publication/273446815_Forensically_discovering_simulation_feedback_knowledge_from_a_campus_energy_information_system)
+
 This dataset is available within the repository and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). 
 
 [Download the dataset here](https://www.dropbox.com/s/ly0wohxezq67pw7/SimAUD_OpenDataset.zip?dl=0)
